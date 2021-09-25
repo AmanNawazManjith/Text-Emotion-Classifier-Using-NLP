@@ -18,4 +18,3 @@ Streamlit is an open-source Python library that makes it easy to create and shar
 
 ```App.py``` also imports the data of ```track_utils.py```, this file links the data which is so to be stored in a database file called as ```data.db``` (SQL)
 
-Further the application was deployed on heroku which you can access form here.
